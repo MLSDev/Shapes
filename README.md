@@ -71,7 +71,7 @@ Take a look at example project, provided in ShapesExample folder.
 
 Using CocoaPods:
 ```bash
-pod 'Shapes', '~> 1.1.0'
+pod 'Shapes', '~> 1.0.2'
 ```
 
 ## About MLSDev
